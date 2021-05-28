@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_CRUD_OPERATION</string>
+    <string name="textview">TextView</string>
+    <string name="enter_your_name_name_here">enter your name name here</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="surname">surname</string>
+    <string name="enter_marks">enter marks</string>
+    <string name="your_id">your id</string>
+    <string name="enter_your_surname">ENTER YOUR SURNAME</string>
+    <string name="enter_your_marks">ENTER YOUR MARKS</string>
+    <string name="add_data">ADD DATA</string>
+    <string name="view_data">View Data</string>
+    <string name="update">UPDATE</string>
+</resources>
